@@ -1,4 +1,8 @@
 _repo: Delay-in-Transit_50998
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50998-h/images/cover.jpg
 creator:
   author:
     agent_name: Wallace, F. L. (Floyd L.)
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26832
     wikipedia: http://en.wikipedia.org/wiki/F._L._Wallace
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50998#Delay-in-Transit
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2016-01-22'
 gutenberg_type: Text
